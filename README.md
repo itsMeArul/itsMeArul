@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently study on SMPN 5 DEPOK <br>
+🔭 I’m currently studying at SMPN 5 Depok <br>  
+🌱 I’m currently learning JavaScript, Node.js, and Lua <br>  
+🚀 I’m interested in game scripting, automation, and web development <br>  
+🎮 I love exploring and creating scripts for Roblox  <br>
+📫 How to reach me: discord.gg/alokstore  <br>
 
 
 ## 🌐 Socials:
